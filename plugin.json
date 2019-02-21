@@ -1,0 +1,9 @@
+{
+  "user": {
+    "status": [
+      {"code": "active", "label": "user.status.active"},
+      {"code": "disable", "label": "user.status.disable"},
+      {"code": "waiting_mail_validation", "label": "user.status.waiting-mail-validation"}
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "user.role.admin": "Administrateur",
+  "user.role.user": "Utilisateur",
+  "user.status.active": "Actif",
+  "user.status.disable": "Désactivé",
+  "user.status.waiting-mail-validation": "En attente de validation"
+}
